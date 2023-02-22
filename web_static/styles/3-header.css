@@ -2,13 +2,8 @@ header{
 	background-color: #fff;
 	height: 70px;
 	width: 100%;
-	position: absolute;
-	top: 0;
-	left: 0;
 	border-bottom: solid 1px #CCCCCC;
-}
-header img{
-	position: absolute;
-	top: 0;
-	left: 20px;
+	display: flex;
+	align-items: center;
+	padding-left: 20px;
 }
